@@ -1,1 +1,1 @@
-# Apple_Clone
+It is only made for educational purposes
